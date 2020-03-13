@@ -4,7 +4,7 @@ import styles from './HeaderBar.module.sass'
 function HeaderBar() {
     return (
         <div className={styles.container}>
-            <h1>HeaderBar</h1>
+            <h2>HeaderBar</h2>
         </div>
     )
 }
